@@ -28,7 +28,7 @@ XPense Finance Tracker is a powerful and user-friendly personal finance applicat
 
    ```bash
    git clone git@github.com:Genix-jailbreak/XPense-Tracker.git
-   cd xPense-finance-tracker
+   cd XPense-Tracker
    ```
 
 2. **Open the Application:**
